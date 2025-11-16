@@ -26,7 +26,7 @@
     "handlebars": "4.0.5",
     "axios": "0.18.0",
     "tar": "4.4.6",
-    "js-yaml": "3.12.0",
+    "js-yaml": "4.1.1",
     "serialize-javascript": "1.4.0",
     "marked": "0.6.0",
     "validator": "10.8.0",
